@@ -4,6 +4,11 @@ Developer Sessions list of programs / activities and resources provided on those
 
 #### 1. Initiation
 - **Date**: July 7
+- **Talks**:
+   - Beginners Guide to Linux 
+   - Python and its Applications
+   - Javascript and Frontend Development
+   - Artificial Intelligence and Deep Learning
 
 
 
