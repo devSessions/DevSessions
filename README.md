@@ -6,9 +6,9 @@ Developer Sessions list of programs / activities and resources provided on those
 - **Date**: July 7
 - **Talks**:
    - Beginners Guide to Linux 
-   - Python and its Applications
+   - [Python and its Applications](sessions/session-1/slides/Python%20and%20its%20applications.pdf)
    - Javascript and Frontend Development
-   - Artificial Intelligence and Deep Learning
+   - [Artificial Intelligence and Deep Learning](sessions/session-1/slides/AI.pdf)
 
 
 
