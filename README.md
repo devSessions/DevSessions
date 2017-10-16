@@ -23,4 +23,5 @@ Developer Sessions list of programs / activities and resources provided on those
 	- [Sparkling Big Data](sessions/october14/big_data/big_data.pdf) — Ashish Parajuli (Slides)
 	- [WiSTEM, AI & Future of Education](sessions/october14/wistem/wistem.ppt) — Vinita Shrestha (Slides)
 	- [Lets kickstart ML](http://www.nishanpantha.com.np/lets-kickstart-ml/) — Nishan Pantha (Slides)
-	- [Developer Sessions: Works & Announcement](sessions/october14/announcement/slides.pptx) — Kshitiz Rimal (Slides) 
+	- [Developer Sessions: Works & Announcement](sessions/october14/announcement/slides.pptx) — Kshitiz Rimal (Slides)
+	- [Research & Applications in ML] — Ashok Kumar Pant (Slides coming soon)
