@@ -20,3 +20,4 @@ Developer Sessions list of programs / activities and resources provided on those
 - **Date**: October 14, 2017
 - **Talks**:
 	- [Open Data and AI](sessions/october14/open_data/open_data.pdf) — Nikesh Balami (Slides)
+	- [Sparkling Big Data](sessions/october14/big_data/big_data.pdf) — Ashish Parajuli (Slides)
