@@ -25,3 +25,7 @@ Developer Sessions list of programs / activities and resources provided on those
 	- [Lets kickstart ML](http://www.nishanpantha.com.np/lets-kickstart-ml/) — Nishan Pantha (Slides)
 	- [Developer Sessions: Works & Announcement](sessions/october14/announcement/slides.pptx) — Kshitiz Rimal (Slides)
 	- [Research & Applications in ML] — Ashok Kumar Pant (Slides coming soon)
+
+#### 4. Facebook Developer Circle — Guest Talk
+- **Date**: November 3, 2017
+- [Deep Learning & AI Community](sessions/facebook_circle/ai_community.pptx) — Kshitiz Rimal (Slides)
