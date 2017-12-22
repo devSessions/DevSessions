@@ -29,3 +29,11 @@ Developer Sessions list of programs / activities and resources provided on those
 #### 4. Facebook Developer Circle — Guest Talk
 - **Date**: November 3, 2017
 - [Deep Learning & AI Community](sessions/facebook_circle/ai_community.pptx) — Kshitiz Rimal (Slides)
+
+#### 5. Deep Learning Prerequisite Workshop
+- **Date**: November 26, 2017
+- Venue: The British College
+
+#### 6. RAN's Yantra Learning Competition
+- **Date**: December 20, 2017
+- [Deep Learning & AI Community](sessions/facebook_circle/ai_community.pptx) — Kshitiz Rimal (Slides)
