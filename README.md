@@ -30,6 +30,7 @@ Developer Sessions list of programs / activities and resources provided on those
 - **Date**: November 3, 2017
 - [Deep Learning & AI Community](sessions/facebook_circle/ai_community.pptx) — Kshitiz Rimal (Slides)
 
+
 #### 5. Deep Learning Prerequisite Workshop
 - **Date**: November 26, 2017
 - Venue: The British College
