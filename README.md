@@ -34,6 +34,7 @@ Developer Sessions list of programs / activities and resources provided on those
 #### 5. Deep Learning Prerequisite Workshop
 - **Date**: November 26, 2017
 - Venue: The British College
+- [Photos](https://drive.google.com/drive/folders/1YHJb00Kz2FUpl2-vuCGyGDnu9nHaHCT8?usp=sharing)
 
 #### 6. RAN's Yantra Learning Competition
 - **Date**: December 20, 2017
