@@ -52,3 +52,15 @@ Developer Sessions list of programs / activities and resources provided on those
 - [Github Repo](https://github.com/devSessions/crvi)
 - [Article](https://medium.com/deep-learning-journals/practical-lessons-learned-while-implementing-image-classifier-6dc39c6efd7e)
 - [Intel Blog Article](https://software.intel.com/en-us/blogs/2017/11/21/cash-recognition-for-the-visually-impaired-using-deep-learning)
+
+#### 10. KU ITMeet 2018
+- **Date**: Jan 6, 2018
+- AI Education & Role of the Community
+- Venue: IT Park, Kavre
+- [Photos](https://drive.google.com/open?id=1Ma0ptN0UZ2-zlz8e-abYR0QO7LETscym)
+- [Slides](sessions/Jan6/AI_Education.pptx)
+
+#### 11. AI/Deep Learning Prerequisites Workshop
+- **Date**: Jan 8, 2018
+- Venue: National InfoTech College, Birgunj, Nepal
+- [Photos](https://drive.google.com/open?id=1BBP6_LwgH98vHSDL9oA3QGBulerf4gJ3)
