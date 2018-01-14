@@ -60,7 +60,12 @@ Developer Sessions list of programs / activities and resources provided on those
 - [Photos](https://drive.google.com/open?id=1Ma0ptN0UZ2-zlz8e-abYR0QO7LETscym)
 - [Slides](sessions/Jan6/AI_Education.pptx)
 
-#### 11. AI/Deep Learning Prerequisites Workshop
+#### 11. AlphaGo Screening
+- **Date**: Jan 6, 2018
+- Venue: IT Park, Kavre
+- [Photos](https://drive.google.com/open?id=1Ma0ptN0UZ2-zlz8e-abYR0QO7LETscym)
+
+#### 12. AI/Deep Learning Prerequisites Workshop
 - **Date**: Jan 8, 2018
 - Venue: National InfoTech College, Birgunj, Nepal
 - [Photos](https://drive.google.com/open?id=1BBP6_LwgH98vHSDL9oA3QGBulerf4gJ3)
