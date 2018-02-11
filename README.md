@@ -74,3 +74,12 @@ Developer Sessions list of programs / activities and resources provided on those
 - **Date**: Jan 18, 2018
 - Venue: Gandaki College of Engineering and Science, Pokhara, Nepal
 - [Photos](https://drive.google.com/open?id=1A4qVXsMob8ft3yDQwBI83f112RnK3wiM)
+
+#### 14. Connecting IoT and AI
+- **Date**: Feb 10, 2018
+- Venue: Universal College, Shantinagar, Kathmandu, Nepal
+- **Talks**:
+	- [Connecting IoT and AI](https://github.com/sidagarwal04) — Siddhant Agarwal (Demo Codes)
+	- [Getting Started with Reinforcement Learning](sessions/feb10/aayam/getting_rl.pptx) — Aayam Shrestha (Slides)
+	- [BCI and ML](sessions/feb10/ujjwal/BCI.pptx) — Ujjwal Raj Nepal (Slides)
+
